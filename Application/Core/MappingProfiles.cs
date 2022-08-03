@@ -8,7 +8,7 @@ namespace Application.Core
         public MappingProfiles()
         {
             // Where we're going to map from
-            // To where we're going to map to
+            // Where we're going to map to
             CreateMap<Activity, Activity>();
         }
     }
